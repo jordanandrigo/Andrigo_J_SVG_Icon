@@ -2,7 +2,7 @@
 body {
 	font-family: 'Bungee Shade', 'Orbitron';
 	font-size: 22px;
-	background-color: #B0ADC2;
+	background-image: linear-gradient(#CBC6F4, #585475);
 
 }
 
@@ -36,29 +36,12 @@ a:hover {
 }
 
 div:hover {
-  background-color: #C2C1D3;
+  background-color: #525CA0;
 }
 
-
-
-
- /*
-.black-background {
-  background-color: black;
+h1:hover {
+  background-color: #9888D8;
 }
-
-/*s
-.st0 {
-  fill:#333 !important;
-}
-
-
-important is an override
-*/
-
-/*#rGrain, #lGrain {
-  fill: red;
-} */
 
 #alien:hover #rGrain {
   fill: red;

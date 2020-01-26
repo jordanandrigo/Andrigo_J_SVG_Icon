@@ -1,19 +1,20 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 23.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 150 150" style="enable-background:new 0 0 150 150;" xml:space="preserve">
+﻿<!-- Generator: Adobe Illustrator 23.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 150 150" style="enable-background:new 0 0 150 150;" xml:space="preserve" width="150" height="150">
 <style type="text/css">
 	.st0{display:none;}
-	.st1{display:inline;fill:#D81958;}
-	.st2{fill:#FFFFFF;stroke:#231F20;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st1{display:inline;fill:#FF0055;}
+	.st2{fill:none;stroke:#231F20;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st3{fill:#FFFFFF;stroke:#FFFFFF;stroke-miterlimit:10;}
+	.st4{fill:none;stroke:#231F20;stroke-width:3;stroke-miterlimit:10;}
 </style>
 <g id="Layer_2" class="st0">
-	<rect x="0.5" y="0.5" class="st1" width="150" height="149"/>
+	<rect x="-2.42" y="-0.78" class="st1" width="150" height="150" />
 </g>
 <g id="Layer_1">
-	<path class="st2" d="M79.24,20.66c-25.66,0-46.46,22.78-46.46,50.87c0,23.24,26.25,54.97,46.46,61.33
-		c20.02-6.36,46.62-38.22,46.46-61.33C125.7,43.43,104.9,20.66,79.24,20.66z M71.28,81.1c-2.96,5.13-11.66,5.66-19.43,1.17
-		c-7.77-4.48-11.66-12.28-8.7-17.41c2.96-5.13,11.66-5.66,19.43-1.17C70.34,68.17,74.24,75.97,71.28,81.1z M106.17,81.16
-		c-7.43,5.03-16.14,5.13-19.46,0.23s0-12.96,7.43-17.99c7.43-5.03,16.14-5.13,19.46-0.23C116.92,68.07,113.6,76.13,106.17,81.16z"/>
+	<path class="st2" d="M128.04,71.36c0.18,26.63-30.47,63.35-53.55,70.68c-23.3-7.33-53.55-43.9-53.55-70.68   c0-32.38,23.97-58.63,53.55-58.63S128.04,38.99,128.04,71.36z" />
+	<path class="st3" d="M119.78,71.73c0.15,22.71-25.98,54.02-45.66,60.27c-19.87-6.25-45.66-37.43-45.66-60.27   c0-27.61,20.44-49.99,45.66-49.99S119.78,44.13,119.78,71.73z" />
+	<ellipse transform="matrix(0.5 -0.866 0.866 0.5 -36.0168 82.6875)" class="st4" cx="53.6" cy="72.54" rx="10.21" ry="15.45" />
+	
+		<ellipse transform="matrix(0.8279 -0.5609 0.5609 0.8279 -24.0504 65.3512)" class="st4" cx="94.47" cy="71.87" rx="15.45" ry="10.21" />
 </g>
 </svg>
