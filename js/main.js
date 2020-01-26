@@ -2,7 +2,7 @@
 
 (() => {
 
-  console.log('hello from JS!');
+  console.log('Out of This World SVG Marketplace');
   //find the elements in the docuemnt
   let toggleButton = document.querySelector(".switch-text"),
     myHeading = document.querySelector('h1');
