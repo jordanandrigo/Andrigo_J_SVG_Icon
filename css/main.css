@@ -43,10 +43,4 @@ h1:hover {
   background-color: #9888D8;
 }
 
-#alien:hover #rGrain {
-  fill: red;
-}
 
-#beerGraphic:hover #lGrain {
-  fill: red;
-}
