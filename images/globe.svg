@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 150 150" style="enable-background:new 0 0 150 150;" xml:space="preserve">
+<style type="text/css">
+	.st0{display:none;}
+	.st1{display:inline;fill:#D81958;}
+	.st2{fill:#FFFFFF;stroke:#231F20;stroke-width:3;stroke-miterlimit:10;}
+	.st3{fill:none;stroke:#231F20;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st4{fill:#FFFFFF;stroke:#231F20;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st5{fill:none;stroke:#231F20;stroke-width:3;stroke-miterlimit:10;}
+</style>
+<g id="Layer_2" class="st0">
+	<rect x="0.5" y="0.5" class="st1" width="150" height="149"/>
+</g>
+<g id="Layer_1">
+	<g>
+		<path class="st2" d="M127.32,95.66c0.1-1.31,0.16-2.63,0.16-3.97c0-3.34-0.31-6.6-0.89-9.77
+			C127.52,87.2,127.57,91.97,127.32,95.66z"/>
+		<path class="st2" d="M108.85,97.89c-1.06-4.57-3.17-8.8,0-11.61c3.17-2.81,4.93-5.98,1.41-9.5c-3.52-3.52,0.35-10.2,3.52-11.61
+			c3.08-1.37,5.67-1.52,5.8-1.52c-4.71-7.67-11.29-14.08-19.11-18.57c5.53,3.46-7.1,7.08-7.1,7.08s-4.22,1.06-11.61-2.39
+			c-7.39-3.45-8.01,2.04-8.01,2.04s-2.89,4.57-12.04,5.63c-9.12,1.05-8.56-15.3-8.56-15.38C33.68,50.13,20,69.31,20,91.69
+			c0,29.68,24.06,53.74,53.74,53.74c25.7,0,47.17-18.04,52.47-42.15C126,103.27,109.89,102.44,108.85,97.89z M100.05,89.45
+			c0,0-9.15,10.56-10.91,14.43s0,15.13,0,15.13s-6.69,11.61-12.67,11.61c-5.98,0-9.5-9.15-9.5-9.15s-0.7-10.91-1.76-14.43
+			c-1.06-3.52-8.09-7.04-11.26-12.31c-3.17-5.28,3.87-19.35,3.87-19.35s6.69-11.61,13.72-3.52c7.04,8.09,12.06,7.04,12.06,7.04
+			s8.69-2.11,13.27,0C101.46,81.01,100.05,89.45,100.05,89.45z"/>
+		<path class="st2" d="M127.16,97.48c0.04-0.36,0.07-0.72,0.1-1.08C127.23,96.78,127.2,97.14,127.16,97.48z"/>
+	</g>
+	<path class="st3" d="M20.61,99.8c0,0,3.79-0.5,9.78,0c5.98,0.5,4.57,3.37,7.04,5.83s2.11,5.63,2.11,11.26s4.57,0.7,8.09,8.09
+		s-4.83,10.63-4.83,10.63S23.72,123.11,20.61,99.8z"/>
+	<polyline class="st4" points="76.69,42.05 76.69,3.6 100.25,9.27 90.55,11.69 100.25,17.52 77.88,20.14 	"/>
+	<path class="st2" d="M188.5,74.5"/>
+	<ellipse class="st5" cx="74" cy="92" rx="53.5" ry="54.5"/>
+</g>
+</svg>

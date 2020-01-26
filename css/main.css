@@ -1,0 +1,56 @@
+
+body {
+	font-family: 'Bungee Shade', 'Orbitron';
+	font-size: 22px;
+	background-color: #00C4C4;
+
+}
+
+.wrapper h1 {
+	color: black;
+	font-size: 50px;
+	text-align: center;
+}
+
+.wrapper h4 {
+	color: black;
+	font-size: 30px;
+	text-align: center;
+}
+
+.img-wrapper {
+  display: inline-block;
+  width: 17%;
+  padding-left: 20px;
+  padding-top: 40px;
+}
+
+.img-wrapper > img {
+  width: 100%;
+}
+
+
+ /*
+.black-background {
+  background-color: black;
+}
+
+/*
+.st0 {
+  fill:#333 !important;
+}
+
+important is an override
+*/
+
+/*#rGrain, #lGrain {
+  fill: red;
+} */
+
+#beerGraphic:hover #rGrain {
+  fill: red;
+}
+
+#beerGraphic:hover #lGrain {
+  fill: red;
+}
