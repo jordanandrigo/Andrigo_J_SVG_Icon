@@ -2,7 +2,7 @@
 body {
 	font-family: 'Bungee Shade';
 	font-size: 22px;
-	background-image: linear-gradient(#C298F4, #66658C);
+	background-image: linear-gradient(#C298F4, #5E6FB7);
 
 }
 
@@ -10,9 +10,10 @@ body {
 	color: black;
 	font-size: 50px;
 	text-align: center;
-  text-shadow: 2px 2px 6px #6E6BFC;
+  text-shadow: 2px 2px 4px #00F3FF;
 
 }
+
 
 .wrapper h4 {
 	color: black;
@@ -33,9 +34,9 @@ body {
 
 
 div:hover {
-  background-color: #444493;
+  background-color: #00F3FF;
 }
 
 h1:hover {
-  background-color: #8442D1;
+  background-color: #AF54F7;
 }
