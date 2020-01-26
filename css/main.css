@@ -1,20 +1,17 @@
 
 body {
-	font-family: 'Bungee Shade', 'Orbitron';
+	font-family: 'Bungee Shade';
 	font-size: 22px;
-	background-image: linear-gradient(#CBC6F4, #585475);
+	background-image: linear-gradient(#C298F4, #66658C);
 
-}
-
-a:hover {
-  color: hotpink;
 }
 
 .wrapper h1 {
 	color: black;
 	font-size: 50px;
 	text-align: center;
-  text-shadow: 2px 2px 4px #7C00C4;
+  text-shadow: 2px 2px 6px #6E6BFC;
+
 }
 
 .wrapper h4 {
@@ -28,19 +25,17 @@ a:hover {
   width: 17%;
   padding-left: 25px;
   padding-top: 40px;
-  cursor: pointer;
 }
 
 .img-wrapper > img {
   width: 100%;
 }
 
+
 div:hover {
-  background-color: #525CA0;
+  background-color: #444493;
 }
 
 h1:hover {
-  background-color: #9888D8;
+  background-color: #8442D1;
 }
-
-
