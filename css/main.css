@@ -1,8 +1,9 @@
+@charset "UTF-8";
 
 body {
-	font-family: 'Bungee Shade', 'Orbitron';
+	font-family: 'Bungee Shade';
 	font-size: 22px;
-	background-color: #00C4C4;
+	background-image: linear-gradient(#C298F4, #5E6FB7);
 
 }
 
@@ -10,7 +11,10 @@ body {
 	color: black;
 	font-size: 50px;
 	text-align: center;
+  	text-shadow: 2px 2px 4px #00F3FF;
+
 }
+
 
 .wrapper h4 {
 	color: black;
@@ -21,8 +25,9 @@ body {
 .img-wrapper {
   display: inline-block;
   width: 17%;
-  padding-left: 20px;
+  padding-left: 25px;
   padding-top: 40px;
+  cursor: pointer;
 }
 
 .img-wrapper > img {
@@ -30,27 +35,11 @@ body {
 }
 
 
- /*
-.black-background {
-  background-color: black;
+div:hover {
+  background-color: #00F3FF;
 }
 
-/*
-.st0 {
-  fill:#333 !important;
+h1:hover {
+  background-color: #AF54F7;
 }
 
-important is an override
-*/
-
-/*#rGrain, #lGrain {
-  fill: red;
-} */
-
-#beerGraphic:hover #rGrain {
-  fill: red;
-}
-
-#beerGraphic:hover #lGrain {
-  fill: red;
-}
