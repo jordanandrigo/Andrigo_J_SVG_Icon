@@ -1,3 +1,4 @@
+@charset "UTF-8";
 
 body {
 	font-family: 'Bungee Shade';
@@ -10,7 +11,7 @@ body {
 	color: black;
 	font-size: 50px;
 	text-align: center;
-  text-shadow: 2px 2px 4px #00F3FF;
+  	text-shadow: 2px 2px 4px #00F3FF;
 
 }
 
@@ -26,6 +27,7 @@ body {
   width: 17%;
   padding-left: 25px;
   padding-top: 40px;
+  cursor: pointer;
 }
 
 .img-wrapper > img {
@@ -40,3 +42,4 @@ div:hover {
 h1:hover {
   background-color: #AF54F7;
 }
+
